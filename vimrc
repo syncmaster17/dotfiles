@@ -22,3 +22,4 @@ syntax enable
 
 "Mappings
 set number
+set relativenumber
