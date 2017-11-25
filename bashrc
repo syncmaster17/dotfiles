@@ -8,7 +8,7 @@
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 # >>> BEGIN ADDED BY CNCHI INSTALLER
-EDITOR=/usr/bin/nano
+EDITOR=/usr/bin/vim
 # <<< END ADDED BY CNCHI INSTALLER
 
 # Remap Caps_Lock to Ctrl (the only method found that works):
