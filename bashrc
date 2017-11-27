@@ -14,3 +14,5 @@ EDITOR=/usr/bin/vim
 # Remap Caps_Lock to Ctrl (the only method found that works):
 setxkbmap -option ctrl:nocaps
 # -layout us
+
+export NOTES_DIR="/home/owner/Dropbox/Notes/"
